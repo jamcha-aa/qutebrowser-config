@@ -1,0 +1,6 @@
+config_version: 1
+global:
+  url.default_page: https://www.google.co.jp/
+  url.searchengines:
+    DEFAULT: https://www.google.co.jp/search?q={}
+  url.start_pages: 'about: blank'
