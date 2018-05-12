@@ -1,7 +1,8 @@
 # qutebrowser-config
 author: jamcha (jamcha.aa@gmail.com)
 
-This file is my tiny qutebrowser config, with changing default search engine as google.
+This qutebrowser config simply changes the default search engine as google.
+
 You can change your settings with ":set".
 
 ### Usage
